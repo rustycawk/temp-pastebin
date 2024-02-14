@@ -1,0 +1,13 @@
+name: temp-pastebin
+version: 0.1.0
+
+authors:
+  - Nikita Matveyev <n.matveev@gosu.kz>
+
+targets:
+  temp-pastebin:
+    main: src/temp-pastebin.cr
+
+crystal: '>= 1.11.1'
+
+license: MIT
